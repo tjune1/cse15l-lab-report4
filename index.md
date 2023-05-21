@@ -10,11 +10,19 @@ To log into ieng6, I typed the command `ssh cs15lsp23si@ieng6.ucsd.edu` and then
 
 **Step 5: Clone your fork of the repository from your Github account**
   
-
+![Image](Step5.png)
+  
+To clone my fork of the repository from my Github account. I first typed `ctrl-c` to copy the url of the repository from my Github account. Then, I typed `git clone` and keys `<space> <ctrl-p> <enter>` to paste the url of my repository as well as execute the command.
 
 **Step 6: Run the tests, demonstrating that they fail**
+  
+![Image](Step6.png)
 
+To run the tests, I first typed the command `ls` to check the repository is cloned correctly from step 5, and then I typed `cd lab7` and `ls` to go into the correct directory and see what files do the direcotry lab7 contains. Then, I typed `bash test.sh` to run the test. I clicked the key <enter> after each command to execute it.  
+  
 **Step 7: Edit the code file to fix the failing test**
+  
+  jjj2whh
 
 **Step 8: Run the tests, demonstrating that they now succeed**
 
