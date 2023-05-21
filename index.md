@@ -1,5 +1,5 @@
 # Fourth Lab Report - Jun T.
-For each numbered step starting right after the timer (so steps 4-9), take a screenshot, and write down exactly which keys you pressed to get to that step. For special characters like <enter> or <tab>, write them in angle brackets with code formatting. Then, summarize the commands you ran and what the effect of those keypresses were.
+In this lab report, for steps 4-9, I will summarize the commands I ran and what the effect of keypresses were.
 
 
 **Step 4: Log into ieng6**
@@ -35,5 +35,5 @@ I typed `bash test.sh` and pressed `<return>` to run the tests. The result shows
 **Step 9: Commit and push the resulting change to your Github account**
 
 ![Image](Step9.JPG)
-  
 
+I typed `git add ListExamples.java` and pressed `<return>` first to include the changed file in the next commit. Then I typed `git commit -m "Updated"` and pressed `<return>` to save the changes to the repository with the commit message "Updated". Then I typed `git push origin main` to push the main branch to the remote repository. Then I typed my username from github and password to finish the push.
